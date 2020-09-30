@@ -1,7 +1,4 @@
-# Roulette
- A simple gambling simulation program and fun game. 
- 
- package Game;
+package Game;
 
 import  java.util.Random;
 import java.util.Scanner;
